@@ -1,0 +1,24 @@
+{
+  "name": "mincrm",
+  "version": "1.0.0",
+  "description": "### Étape 1 : * Créez un serveur express  * Récupérez le fichier json `crm.json` * Inserez les informations dans le `index.html`",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphael1979/Mini-CRM-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphael1979/Mini-CRM-1/issues"
+  },
+  "homepage": "https://github.com/raphael1979/Mini-CRM-1#readme"
+}
